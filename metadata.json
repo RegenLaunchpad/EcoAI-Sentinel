@@ -1,0 +1,5 @@
+{
+  "name": "EcoAI: Permacomputing Sentinel",
+  "description": "A dual-mode AI interface tracking water, energy, and biodiversity impact. Features an Individual chat mode with token-based ecological donations and a Business dashboard for enterprise sustainability ROI.",
+  "requestFramePermissions": []
+}
